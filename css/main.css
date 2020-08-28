@@ -1,0 +1,158 @@
+#name p  {
+    padding:10px;
+    background-color:#2e4351;
+    text-align:center;
+    margin-bottom:0px;
+    font-size:30px;
+    color:#fff;
+    font-size:40px;
+}
+
+#about{
+    background-color:#354457;
+    padding:50px;
+    margin-top:0px;
+}
+.p1{
+    font-size:50px;
+    text-align:center;
+    margin-top: 0px;
+    color:#fff;
+    margin-bottom:0px;
+    font-weight:50px;
+}
+
+.p2{
+    text-align:center;
+    margin-top:0px;
+    color:yellow;
+    letter-spacing:0.5rem ;
+}
+
+#photo{
+    min-width:500px ;
+    min-height: 500px;
+    background-color:white;
+    margin-top:20px;
+    margin-right:100px;
+    margin-left:100px;
+    margin-bottom:20px;
+}
+
+.about_me{
+    padding:40px;
+    background-color:#f7ca18;
+    margin-bottom:30px;
+    
+}
+
+.img {
+  margin-right:20px;  
+  margin-left:20px;
+  float:left;
+}
+
+.cont1{
+    background-color:white;
+    min-height:350px;
+    min-width:250px;
+    margin-right:200px;
+    margin-left:100px;
+    float:left;
+    margin-bottom:20px;
+    padding:50px;
+    margin-top:0px;
+    
+    
+}
+
+.p3{
+    background-color:#f7ca18;
+    padding:30px;
+    margin-top:-50px;
+    margin-left:-50px;
+    margin-right:-50px;
+    font-weight:20px;
+    font-size:30px;
+    
+
+}
+
+.cont2{
+    background-color:white;
+    min-height:350px;
+    min-width:250px;
+    margin-right:250px;
+    margin-left:70px;
+    margin-bottom:20px;
+    float:left;
+    padding:50px;
+    margin-top:0px;
+    margin-right:0px;
+
+    
+}
+
+.p4 {
+    background-color:#f7ca18;
+    padding:30px;
+    margin-top:-50px;
+    margin-left:-50px;
+    margin-right:-50px;
+    font-size:30px;
+
+}
+
+th{
+    padding:10px;
+    background-color:yellow;
+     
+}
+
+table{
+    border-collapse:collapse;
+    width:1100px;
+    font-family:arial, sans-serif;
+    text-align:left;
+    margin-left:100px;
+    margin-right:-200px;
+    margin-bottom:50px;
+    background-color:#fff;
+
+}
+    
+tr{
+    border-bottom:1px solid#dddddd;
+    padding:50px;
+
+}
+
+  Footer{
+    padding:20px;
+    background-color:#354457;
+    margin-left:0px;
+    margin-right:0px
+    
+}
+
+.copy{
+    color:yellow;
+}
+
+td{
+
+    border-right:1 px solid #dddddd;
+}
+td,th{
+    text-align:left;
+    padding:20px;
+}
+body{
+    background-color:#d1d1d1;
+}
+h1{
+    color:white;
+}
+p{
+    color:white;
+}
