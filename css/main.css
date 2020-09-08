@@ -6,6 +6,12 @@
     font-size:30px;
     color:#fff;
     font-size:40px;
+    font-family:sans-serif;
+}
+
+#name{
+    margin-left:0px;
+    margin-right:0px;
 }
 
 #about{
@@ -14,12 +20,14 @@
     margin-top:0px;
 }
 .p1{
-    font-size:50px;
+    font-size:40px;
     text-align:center;
     margin-top: 0px;
     color:#fff;
     margin-bottom:0px;
     font-weight:50px;
+    font-family:sans-serif ;
+    font-family:sans-serif;
 }
 
 .p2{
@@ -27,6 +35,7 @@
     margin-top:0px;
     color:yellow;
     letter-spacing:0.5rem ;
+    font-family:sans-serif;
 }
 
 #photo{
@@ -40,9 +49,15 @@
 }
 
 .about_me{
-    padding:40px;
-    background-color:#f7ca18;
+    padding:30px;
+    background-color:#deb318;
     margin-bottom:30px;
+    font-weight:bold ;
+    font-size:30px;
+    color:#2e4351;
+    margin-left:0px;
+    margin-right:0px ;
+
     
 }
 
@@ -64,16 +79,19 @@
     margin-top:0px;
     
     
+    
 }
 
 .p3{
-    background-color:#f7ca18;
+    background-color:#deb318;
     padding:30px;
     margin-top:-50px;
     margin-left:-50px;
     margin-right:-50px;
-    font-weight:20px;
+    font-weight:bold;
     font-size:30px;
+    font-family:sans-serif;
+    color:#2e4351;
     
 
 }
@@ -88,24 +106,28 @@
     float:left;
     padding:50px;
     margin-top:0px;
-    margin-right:0px;
+    margin-right:10px;
 
     
 }
 
 .p4 {
-    background-color:#f7ca18;
+    background-color:#deb318;
     padding:30px;
     margin-top:-50px;
     margin-left:-50px;
     margin-right:-50px;
     font-size:30px;
+    font-weight:bold;
+    font-family:sans-serif;
+    color:#2e4351;
 
 }
 
 th{
     padding:10px;
-    background-color:yellow;
+    background-color:#deb318;
+    font-weight:bold;
      
 }
 
@@ -119,20 +141,25 @@ table{
     margin-bottom:50px;
     background-color:#fff;
 
-}
+} 
     
 tr{
     border-bottom:1px solid#dddddd;
-    padding:50px;
+    padding:20px;
 
 }
 
-  Footer{
+  .Footer{
     padding:20px;
     background-color:#354457;
     margin-left:0px;
     margin-right:0px
     
+}
+
+.Footer h1,p{
+    margin-right:15px;
+    color:white;
 }
 
 .copy{
@@ -152,7 +179,92 @@ body{
 }
 h1{
     color:white;
+    font-family: sans-serif;
+    font-size:15px;
 }
 p{
     color:black;
+}
+
+table{
+    border:1px solid #DDDDDD;
+    border-collapse:collapse;
+    width:75%;
+    font-family:arial, sans-serif;
+    text-align:left;
+    background-color: white;
+    border-collapse:collapse;
+    width:1100px;
+    font-family:arial, sans-serif;
+    text-align:left;
+    margin-left:100px;
+    margin-right:-200px;
+    margin-bottom:50px;
+    background-color:#fff;
+     
+}
+td,th{
+  padding:8px;
+  background-color: white;
+  text-align:left;
+}
+tr{
+  border-bottom:1px solid#dddddd;
+  
+}
+th{
+    background-color:#666666;
+    color:black;
+    background-color: 
+    padding: 20px;
+}
+td{
+    border-right:1px solid #DDDDDD;
+    padding:15px ;
+    margin-right:10px ;
+}
+tr.even{
+    background-color:#eeeeee;
+}
+tr:nth-child(even) {
+  background-color: #EEEEEE;
+}
+.model{
+background-color:#1f2a38;
+text-align: left;
+min-height: 100%;
+justify-content: center;
+font-size:10px;
+}
+
+.cont1 ul,li{
+margin-right:0px;
+margin-left:0px;
+padding:3px;
+}
+th{
+    background-color:#deb318;
+    padding:20px;
+    color:#2e4351;
+    font-weight:bold;
+}
+
+p{
+    font-family:sans-serif;
+}
+#s{
+    color:white;
+    font-size:10px;
+}
+#t{
+    color:white;
+    font-size:10px
+}
+/* #name{
+    padding:100%;
+
+} */
+
+.end{
+    margin-right:50px;
 }
